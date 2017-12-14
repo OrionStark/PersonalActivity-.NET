@@ -1,0 +1,103 @@
+C:\Users\OrionStark\Desktop\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\PersonalActivity.exe.config
+C:\Users\OrionStark\Desktop\Personal Activity\PersonalActivity\PersonalActivity\obj\Debug\PersonalActivity.exe
+C:\Users\OrionStark\Desktop\Personal Activity\PersonalActivity\PersonalActivity\obj\Debug\PersonalActivity.pdb
+C:\Users\OrionStark\Desktop\Personal Activity\PersonalActivity\PersonalActivity\obj\Debug\PersonalActivity.csprojResolveAssemblyReference.cache
+C:\Users\OrionStark\Desktop\Personal Activity\PersonalActivity\PersonalActivity\obj\Debug\PersonalActivity.ActivityBox.resources
+C:\Users\OrionStark\Desktop\Personal Activity\PersonalActivity\PersonalActivity\obj\Debug\PersonalActivity.ActivityList.resources
+C:\Users\OrionStark\Desktop\Personal Activity\PersonalActivity\PersonalActivity\obj\Debug\PersonalActivity.Activity_box21.resources
+C:\Users\OrionStark\Desktop\Personal Activity\PersonalActivity\PersonalActivity\obj\Debug\PersonalActivity.AlarmPage.resources
+C:\Users\OrionStark\Desktop\Personal Activity\PersonalActivity\PersonalActivity\obj\Debug\PersonalActivity.Home.resources
+C:\Users\OrionStark\Desktop\Personal Activity\PersonalActivity\PersonalActivity\obj\Debug\PersonalActivity.Music_and_Chatting.resources
+C:\Users\OrionStark\Desktop\Personal Activity\PersonalActivity\PersonalActivity\obj\Debug\PersonalActivity.Register.resources
+C:\Users\OrionStark\Desktop\Personal Activity\PersonalActivity\PersonalActivity\obj\Debug\PersonalActivity.FirstPage.resources
+C:\Users\OrionStark\Desktop\Personal Activity\PersonalActivity\PersonalActivity\obj\Debug\PersonalActivity.Splash.resources
+C:\Users\OrionStark\Desktop\Personal Activity\PersonalActivity\PersonalActivity\obj\Debug\PersonalActivity.Properties.Resources.resources
+C:\Users\OrionStark\Desktop\Personal Activity\PersonalActivity\PersonalActivity\obj\Debug\PersonalActivity.Weather.resources
+C:\Users\OrionStark\Desktop\Personal Activity\PersonalActivity\PersonalActivity\obj\Debug\PersonalActivity.csproj.GenerateResource.Cache
+C:\Users\OrionStark\Desktop\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\Icon\CD-100.png
+C:\Users\OrionStark\Desktop\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\Icon\CD-128 (1).png
+C:\Users\OrionStark\Desktop\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\Icon\CD1-100.png
+C:\Users\OrionStark\Desktop\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\Icon\Forward-35.png
+C:\Users\OrionStark\Desktop\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\Icon\Pause-35 (1).png
+C:\Users\OrionStark\Desktop\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\Icon\Play-35 (1).png
+C:\Users\OrionStark\Desktop\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\ActivityLog\README.txt
+C:\Users\OrionStark\Desktop\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\SoftwareLog\README.txt
+C:\Users\OrionStark\Desktop\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\PersonalActivity.exe
+C:\Users\OrionStark\Desktop\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\PersonalActivity.pdb
+C:\Users\OrionStark\Desktop\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\CircularProgressBar.dll
+C:\Users\OrionStark\Desktop\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\NAudio.dll
+C:\Users\OrionStark\Desktop\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\NAudio.Vorbis.dll
+C:\Users\OrionStark\Desktop\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\NVorbis.dll
+C:\Users\OrionStark\Desktop\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\PACheckUP.dll
+C:\Users\OrionStark\Desktop\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\pamusic.dll
+C:\Users\OrionStark\Desktop\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\PersonalActivityReferences.dll
+C:\Users\OrionStark\Desktop\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\NAudio.xml
+C:\Users\OrionStark\Desktop\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\NAudio.Vorbis.xml
+C:\Users\OrionStark\Desktop\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\NVorbis.xml
+C:\Users\OrionStark\Desktop\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\PACheckUP.pdb
+C:\Users\OrionStark\Desktop\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\pamusic.pdb
+C:\Users\OrionStark\Desktop\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\PersonalActivityReferences.pdb
+C:\Users\OrionStark\Desktop\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\weather.dll
+C:\Users\OrionStark\Desktop\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\weather.pdb
+C:\Users\OrionStark\Desktop\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\paemail.dll
+C:\Users\OrionStark\Desktop\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\paemail.pdb
+C:\Users\OrionStark\Desktop\Personal Activity\PersonalActivity\PersonalActivity\obj\Debug\PersonalActivity.GmailSender.resources
+C:\Users\OrionStark\Desktop\Personal Activity\PersonalActivity\PersonalActivity\obj\Debug\PersonalActivity.PassInput.resources
+C:\Users\OrionStark\Desktop\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\AlarmMusic\alarmSound.mp3
+C:\Users\OrionStark\Desktop\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\AlarmSystem.dll
+C:\Users\OrionStark\Desktop\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\AlarmSystem.pdb
+C:\Users\OrionStark\Desktop\Personal Activity\PersonalActivity\PersonalActivity\obj\Debug\PersonalActivity.Alarm_field.resources
+C:\Users\OrionStark\Desktop\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\OrionChatClient.dll
+C:\Users\OrionStark\Desktop\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\OrionChatClient.pdb
+C:\Users\OrionStark\Desktop\Personal Activity\PersonalActivity\PersonalActivity\obj\Debug\PersonalActivity.Account_Settings.resources
+C:\Users\OrionStark\Desktop\Personal Activity 2.2\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\PersonalActivity.exe.config
+C:\Users\OrionStark\Desktop\Personal Activity 2.2\Personal Activity\PersonalActivity\PersonalActivity\obj\Debug\PersonalActivity.exe
+C:\Users\OrionStark\Desktop\Personal Activity 2.2\Personal Activity\PersonalActivity\PersonalActivity\obj\Debug\PersonalActivity.pdb
+C:\Users\OrionStark\Desktop\Personal Activity 2.2\Personal Activity\PersonalActivity\PersonalActivity\obj\Debug\PersonalActivity.csprojResolveAssemblyReference.cache
+C:\Users\OrionStark\Desktop\Personal Activity 2.2\Personal Activity\PersonalActivity\PersonalActivity\obj\Debug\PersonalActivity.Account_Settings.resources
+C:\Users\OrionStark\Desktop\Personal Activity 2.2\Personal Activity\PersonalActivity\PersonalActivity\obj\Debug\PersonalActivity.ActivityBox.resources
+C:\Users\OrionStark\Desktop\Personal Activity 2.2\Personal Activity\PersonalActivity\PersonalActivity\obj\Debug\PersonalActivity.ActivityList.resources
+C:\Users\OrionStark\Desktop\Personal Activity 2.2\Personal Activity\PersonalActivity\PersonalActivity\obj\Debug\PersonalActivity.Activity_box21.resources
+C:\Users\OrionStark\Desktop\Personal Activity 2.2\Personal Activity\PersonalActivity\PersonalActivity\obj\Debug\PersonalActivity.AlarmPage.resources
+C:\Users\OrionStark\Desktop\Personal Activity 2.2\Personal Activity\PersonalActivity\PersonalActivity\obj\Debug\PersonalActivity.Alarm_field.resources
+C:\Users\OrionStark\Desktop\Personal Activity 2.2\Personal Activity\PersonalActivity\PersonalActivity\obj\Debug\PersonalActivity.GmailSender.resources
+C:\Users\OrionStark\Desktop\Personal Activity 2.2\Personal Activity\PersonalActivity\PersonalActivity\obj\Debug\PersonalActivity.Home.resources
+C:\Users\OrionStark\Desktop\Personal Activity 2.2\Personal Activity\PersonalActivity\PersonalActivity\obj\Debug\PersonalActivity.Music_and_Chatting.resources
+C:\Users\OrionStark\Desktop\Personal Activity 2.2\Personal Activity\PersonalActivity\PersonalActivity\obj\Debug\PersonalActivity.PassInput.resources
+C:\Users\OrionStark\Desktop\Personal Activity 2.2\Personal Activity\PersonalActivity\PersonalActivity\obj\Debug\PersonalActivity.Register.resources
+C:\Users\OrionStark\Desktop\Personal Activity 2.2\Personal Activity\PersonalActivity\PersonalActivity\obj\Debug\PersonalActivity.FirstPage.resources
+C:\Users\OrionStark\Desktop\Personal Activity 2.2\Personal Activity\PersonalActivity\PersonalActivity\obj\Debug\PersonalActivity.Splash.resources
+C:\Users\OrionStark\Desktop\Personal Activity 2.2\Personal Activity\PersonalActivity\PersonalActivity\obj\Debug\PersonalActivity.Properties.Resources.resources
+C:\Users\OrionStark\Desktop\Personal Activity 2.2\Personal Activity\PersonalActivity\PersonalActivity\obj\Debug\PersonalActivity.Weather.resources
+C:\Users\OrionStark\Desktop\Personal Activity 2.2\Personal Activity\PersonalActivity\PersonalActivity\obj\Debug\PersonalActivity.csproj.GenerateResource.Cache
+C:\Users\OrionStark\Desktop\Personal Activity 2.2\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\AlarmMusic\alarmSound.mp3
+C:\Users\OrionStark\Desktop\Personal Activity 2.2\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\Icon\CD-100.png
+C:\Users\OrionStark\Desktop\Personal Activity 2.2\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\Icon\CD-128 (1).png
+C:\Users\OrionStark\Desktop\Personal Activity 2.2\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\Icon\CD1-100.png
+C:\Users\OrionStark\Desktop\Personal Activity 2.2\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\Icon\Forward-35.png
+C:\Users\OrionStark\Desktop\Personal Activity 2.2\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\Icon\Pause-35 (1).png
+C:\Users\OrionStark\Desktop\Personal Activity 2.2\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\Icon\Play-35 (1).png
+C:\Users\OrionStark\Desktop\Personal Activity 2.2\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\ActivityLog\README.txt
+C:\Users\OrionStark\Desktop\Personal Activity 2.2\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\SoftwareLog\README.txt
+C:\Users\OrionStark\Desktop\Personal Activity 2.2\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\PersonalActivity.exe
+C:\Users\OrionStark\Desktop\Personal Activity 2.2\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\PersonalActivity.pdb
+C:\Users\OrionStark\Desktop\Personal Activity 2.2\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\AlarmSystem.dll
+C:\Users\OrionStark\Desktop\Personal Activity 2.2\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\NAudio.dll
+C:\Users\OrionStark\Desktop\Personal Activity 2.2\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\NAudio.Vorbis.dll
+C:\Users\OrionStark\Desktop\Personal Activity 2.2\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\NVorbis.dll
+C:\Users\OrionStark\Desktop\Personal Activity 2.2\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\OrionChatClient.dll
+C:\Users\OrionStark\Desktop\Personal Activity 2.2\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\PACheckUP.dll
+C:\Users\OrionStark\Desktop\Personal Activity 2.2\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\paemail.dll
+C:\Users\OrionStark\Desktop\Personal Activity 2.2\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\pamusic.dll
+C:\Users\OrionStark\Desktop\Personal Activity 2.2\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\PersonalActivityReferences.dll
+C:\Users\OrionStark\Desktop\Personal Activity 2.2\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\weather.dll
+C:\Users\OrionStark\Desktop\Personal Activity 2.2\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\AlarmSystem.pdb
+C:\Users\OrionStark\Desktop\Personal Activity 2.2\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\NAudio.xml
+C:\Users\OrionStark\Desktop\Personal Activity 2.2\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\NAudio.Vorbis.xml
+C:\Users\OrionStark\Desktop\Personal Activity 2.2\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\NVorbis.xml
+C:\Users\OrionStark\Desktop\Personal Activity 2.2\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\OrionChatClient.pdb
+C:\Users\OrionStark\Desktop\Personal Activity 2.2\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\PACheckUP.pdb
+C:\Users\OrionStark\Desktop\Personal Activity 2.2\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\paemail.pdb
+C:\Users\OrionStark\Desktop\Personal Activity 2.2\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\pamusic.pdb
+C:\Users\OrionStark\Desktop\Personal Activity 2.2\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\PersonalActivityReferences.pdb
+C:\Users\OrionStark\Desktop\Personal Activity 2.2\Personal Activity\PersonalActivity\PersonalActivity\bin\Debug\weather.pdb
